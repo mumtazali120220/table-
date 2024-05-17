@@ -1,0 +1,14 @@
+.p1 {
+  color: red;
+  font-size: 20px;
+}
+.join {
+  color: blue;
+}
+.fruit-header,
+.vegetable-header {
+  padding-right: 20px;
+}
+tr:nth-child(even) {
+  background-color: blue;
+}
